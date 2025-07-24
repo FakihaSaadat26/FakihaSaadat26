@@ -63,7 +63,7 @@
 ### 📫 Connect with Me
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/fakihasaadat/)
-- 💼 [GitHub](https://github.com/FakihaSaadat26)
+- 💼 [GitHub](https://github.com/fakiha-saadat)
 - 💌 Email: **fakiha.saadat@gmail.com**
 
 ---
