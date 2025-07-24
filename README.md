@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fakiha Saadat</h1>
+<h3 align="center">Web Developer | UI/UX Designer | AI/ML Learning Enthusiast</h3>
 
-<!--
-**FakihaSaadat26/FakihaSaadat26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 CS Undergrad at NUST  
+🌐 Passionate about web development, design, and AI  
+🎯 Always curious to learn and build cool tech  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+
+**Backend & Tools:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🛒 **E-Commerce Platform** — MERN stack, marketing platform for hostelites  
+- 🧠 **Health Query Chatbot** — Built using OpenAI & Python  
+- 🔍 **Path Visualizer** — Visualizer using DSA concepts  
+- 🎮 **Tic-Tac-Toe Game** — JavaScript game with AI and friend mode  
+- 📊 **Energy Dashboard** — Visualizes energy consumption using FastAPI + Charts
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FakihaSaadat26&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakihaSaadat26&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/fakihasaadat/)
+- 💼 [GitHub](https://github.com/FakihaSaadat26)
+- 💌 Email: **fakiha.saadat@gmail.com**
+
+---
+
+⭐ *“Code with purpose, design with heart.”*  
